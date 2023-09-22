@@ -1,18 +1,18 @@
-# CodeX-Food-Bevrage-Analysis
+# Food-Bevrage-Analysis
 
-🌟 Task:
+## Task:
 
-My role was to analyze survey data from 10,000 participants and extract meaningful insights. This helped CodeX make informed marketing decisions, increase brand awareness, and enhance product development.
+My role was to analyze survey data from 10,000 participants and extract meaningful insights. This helped to make informed marketing decisions, increase brand awareness, and enhance product development.
 
 
 
-🌟 Approach:
+## Approach:
 
-I utilized MySQL for conducting Query, Power BI for visual analysis, and Canva for engaging video presentations. With these tools, I discovered key findings to drive our future actions.
+I utilized MySQL for conducting Query, Power BI for visual analysis. With these tools, I discovered key findings to drive our future actions.
 
-🌟 Key Findings:
+## Key Findings:
 
-- 60% of CodeX's customers are male, indicating a strong male consumer base.
+- 60% of customers are male, indicating a strong male consumer base.
 
 - 56% of respondents were young people, presenting an excellent opportunity to connect with the youth.
 
@@ -28,7 +28,7 @@ I utilized MySQL for conducting Query, Power BI for visual analysis, and Canva f
 
 
 
-🌟 Actionable Recommendations:
+## Actionable Recommendations:
 
 1. Collaborate with online influencers to improve online ad campaigns and expand reach.
 
@@ -42,14 +42,10 @@ I utilized MySQL for conducting Query, Power BI for visual analysis, and Canva f
 
 
 
-🌟 Suggestions for Brand Enhancement:
+## Suggestions for Brand Enhancement:
 
 1. Enhance natural caffeine content and promote mental alertness by incorporating green tea extract and Guarana.
 
 2. Consider Virat Kohli, a popular cricketer, as a brand ambassador to leverage his appeal among the youth and fitness enthusiasts.
 
 
-
-🌟 Conclusion:
-
-Participating in the codebasics Resume Project Challenge allowed me to analyze survey data and provide actionable insights for CodeX's marketing strategies.
